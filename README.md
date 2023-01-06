@@ -1,2 +1,2 @@
 # Hospital-Management-System
-A school project for managing hospital data like Patient info etc...
+This very basic program written in java allows you to manage hospital patients data
